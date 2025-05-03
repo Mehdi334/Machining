@@ -1,16 +1,16 @@
-<h1> Jet 7 - Iron Man Suit</h1>
+<h1> Machining - Manual Turning & Milling</h1>
 
  ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
 
 <h2>Description</h2>
-I am a design engineer for the student led initative Jet 7 and a member of the gas turbine team. My contributions include designing the CFD workflow which included splitting the gas turbine in to it's main components (Centrifugal compressor, combustion chamber, axial turbine) so that I could run a coupled simulation utisling the outlet boundary conditions of the first component in the next one for realistic results. This also allowed us to run simulations across different software (ANSYS Fluent and CFX). 
+Completed the advanced machine shop training courses (turning and milling) offered by the Diamond+ workshop training services. Manufactured assemblies utilising various materials including aluminium, stainless steel, and brass from provided 2D CAD drawings. Applied knowledge gained from manufacturing modules when selecting the appropriate machining process parameters, such as RPM, feed rate, and lubrication to achieve desired physical performance.
 <br />
 
 
 <h2> Software Used</h2>
 
-- <b>ANSYS Fluent</b> 
-- <b>ANSYS CFX</b>
+- <b>Fusion 360</b> 
+
 
 
 <h2>Pictures:</h2>
@@ -44,12 +44,4 @@ Observe the wiped disk:  <br/>
 <img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
-<!--
- ```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
---!>
+
